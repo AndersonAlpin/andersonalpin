@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalpin&layout=compact&langs_count=7&theme=dark&title_color=blue"/>
 </div>
 
-#### Utilizando atualmente
+####
   
 <div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
@@ -22,18 +22,8 @@
   <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img align="center"  height=30" src="https://res.cloudinary.com/practicaldev/image/fetch/s--nGV-3tDa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/yxokmwvon16q7gqi7iqj.png">
-  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-</div>
-                                                                                                                        
-#### Outras
-  
-<div style="display: inline_block"><br>
   <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-                            
-#### Estudando
+</div>                                                                                                
   
-<div style="display: inline_block"><br>
-  <img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-</div>
