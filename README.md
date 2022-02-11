@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/andersonalpin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonalpin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalpin&layout=compact&langs_count=7&theme=dark&title_color=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalpin&layout=compact&langs_count=6&hide=ejs,less,stylus&theme=dark&title_color=blue"/>
 </div>
 
 ####
