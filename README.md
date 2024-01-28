@@ -1,12 +1,13 @@
-### <p>Hello, World!</p>
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/anderson-alpin-1a38421ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>              
 </div>
 
 ##
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AndersonAlpin&theme=dark&locale=pt_BR&card_width=759" alt="GitHub Streak" /></a>
+</div>
 
-<div>
-  <a href="https://github.com/andersonalpin">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonalpin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalpin&layout=compact&langs_count=6&hide=ejs,less,stylus&theme=dark&title_color=blue"/>
 </div>
