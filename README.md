@@ -7,11 +7,6 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AndersonAlpin&theme=dark&card_width=759" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonalpin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=blue"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonalpin&layout=compact&langs_count=6&hide=ejs,less,stylus&theme=dark&title_color=blue"/>
-</div>
-
 ####
   
 <div style="display: inline_block"><br>
