@@ -1,70 +1,90 @@
 ## Hi, I'm Anderson Alpin 👋
 
-I'm a Full-Stack Developer with experience in building web applications using Node.js, Angular, Vue.js and GraphQL. I work on front-end and back-end development, with a focus on creating efficient and easy-to-use solutions. My goal is to build scalable systems that meet functional and performance requirements.
+I'm a Full-Stack Developer working at Panda Video, building and improving real-world web products with Vue 3, TypeScript, Node.js and microservices-based systems.
+
+I work with product dashboards, user-facing flows, integrations, APIs and async processing features, focusing on usability, maintainability and performance.
+
+I also build browser extensions and developer tools focused on improving frontend development, debugging and layout review workflows.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anderson-alpin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>         <a href="mailto:anderson.alpin@ftc.edu.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anderson-alpin" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:andersonalpim@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
-##
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AndersonAlpin&theme=dark&card_width=759" alt="GitHub Streak" /></a>
-</div>
+---
 
-####
-  
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+### Featured projects
 
-  <!-- Frontend -->
-  <div>
-    <h3 style="text-align: center; margin-bottom: 10px;">Frontend</h3>
-    <img align="center" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-    <img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  </div>
+#### InterceptPilot
 
-  <!-- Backend -->
-  <div>
-    <h3 style="text-align: center; margin-bottom: 10px;">Backend</h3>
-    <img align="center" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge">
-    <img align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </div>
+Browser extension for inspecting, mocking and debugging HTTP requests during development.
 
-  <!-- Databases -->
-  <div>
-    <h3 style="text-align: center; margin-bottom: 10px;">Databases</h3>
-    <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-  </div>
+<a href="https://chromewebstore.google.com/detail/jffbkfigbkmpbpngocopjgdjlhomehfe" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/InterceptPilot-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-  <!-- ORMs -->
-  <div>
-    <h3 style="text-align: center; margin-bottom: 10px;">ORMs</h3>
-    <img align="center" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-  </div>
+#### LayoutPilot
 
-  <!-- CI/CD & Containerization -->
-  <div>
-    <h3 style="text-align: center; margin-bottom: 10px;">CI/CD & Containerization</h3>
-    <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  </div>
+Browser extension focused on layout inspection, review mode and responsive preview for frontend development.
 
-  <!-- Testing -->
-  <div>
-    <h3 style="text-align: center; margin-bottom: 10px;">Testing</h3>
-    <img align="center" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
-  </div>
+<a href="https://chromewebstore.google.com/detail/eddfdjmgjklobajcpfdiinfojdcgmndm" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LayoutPilot-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
-</div>
+---
 
+### Main stack
+
+#### Frontend
+
+![Vue 3](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge\&logo=nuxt\&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge\&logo=vuedotjs\&logoColor=333333)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+#### Backend & Architecture
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-2D3748?style=for-the-badge)
+![Async Processing](https://img.shields.io/badge/Async_Processing-4A5568?style=for-the-badge)
+
+#### Databases, Queues & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
+
+#### Testing
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge\&logo=jest\&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge\&logo=vitest\&logoColor=white)
+
+#### Also worked with
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![TypeGraphQL](https://img.shields.io/badge/TypeGraphQL-C04392?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge\&logo=sequelize\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+---
+
+### What I usually work on
+
+* Full-stack web development with Vue 3, TypeScript and Node.js
+* Product dashboards, internal tools and user-facing flows
+* APIs, integrations and microservices-based systems
+* Async processing flows, queues and backend support
+* UX improvements, maintainability and performance
+* Browser extensions and developer tools
 
